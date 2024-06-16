@@ -9,7 +9,6 @@ Welcome to the Netflix Clone project repository! This project was developed duri
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -45,17 +44,6 @@ This Netflix Clone project is designed to mimic the user interface and experienc
 
 1. Open the `index.html` file in your browser to view the Netflix Clone home page.
 
-## Screenshots
-
-![Home Page](screenshots/home.png)
-*Description of the Home Page screenshot.*
-
-![Movie Details Page](screenshots/movie-details.png)
-*Description of the Movie Details Page screenshot.*
-
-![Profile Page](screenshots/profile.png)
-*Description of the Profile Page screenshot.*
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the existing code style.
@@ -71,8 +59,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## Contact
-
-Bharat Intern - [website](https://www.bharatintern.com) - [email](mailto:contact@bharatintern.com)
 
 Your Name - [LinkedIn](https://www.linkedin.com/in/ayush-nema-jec) - [email](mailto:ayushnema2468@gmail.com)
 
